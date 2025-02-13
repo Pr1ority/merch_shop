@@ -39,8 +39,7 @@ source venv/bin/activate
 ```bash
 source venv/Scripts/activate
 ```
-4. Заполните .env
-Пример:
+4. Заполните .env. Пример:
 ```example.env
 SECRET_KEY=your_secret_key
 ```
