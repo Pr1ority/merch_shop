@@ -43,8 +43,7 @@ source venv/Scripts/activate
 ```example.env
 SECRET_KEY=your_secret_key
 ```
-5. Поднимите контейнеры в Докере
-Находясь в папке merch_shop, выполните команду
+5. Поднимите контейнеры в Докере. Находясь в папке merch_shop, выполните команду:
 ```bash
 docker-compose up --build
 ```
